@@ -1,4 +1,4 @@
-# Projeto-SistemasDigitais
+# ProjetoII-SD
 
  ####  Autores:
 -  [André Vasconcelos](https://github.com/alpvj)
